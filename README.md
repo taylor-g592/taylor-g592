@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**taylor-g592/taylor-g592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![@taylormegan592's Holopin board](https://holopin.me/taylormegan592)](https://holopin.io/@taylormegan592)
 
 Here are some ideas to get you started:
@@ -15,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
